@@ -1,2 +1,5 @@
 こんにちは、世界！再提出用
 追加の行を記入します。
+726e412 2回目のコミット: hello_world.txt に追加行を記入
+4ace1dc 初回コミット: hello_world.txt の作成
+1de2bb9 hello_world.txtに「こんにちは、世界！」を追加
